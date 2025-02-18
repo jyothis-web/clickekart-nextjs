@@ -3,7 +3,7 @@ import React from 'react'
 const sample = () => {
   return (
     <div>
-      sample
+    updating for the branch of next js dev
     </div>
   )
 }
